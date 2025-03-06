@@ -19,11 +19,6 @@ function Footer() {
               <Link className="text-sm" href="/">
                 Policies
               </Link>
-            </div>
-            <Link href="/" className="text-sm">
-              &copy;2024 Abhinav Sinha
-            </Link>
-          </div>
 
           <div className="mb-4">
             <p className="font-bold">Renting</p>
